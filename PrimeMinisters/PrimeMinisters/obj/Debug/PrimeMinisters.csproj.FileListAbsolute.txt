@@ -1,0 +1,7 @@
+C:\Users\adwitiya\source\repos\PrimeMinisters\PrimeMinisters\bin\Debug\PrimeMinisters.exe.config
+C:\Users\adwitiya\source\repos\PrimeMinisters\PrimeMinisters\bin\Debug\PrimeMinisters.exe
+C:\Users\adwitiya\source\repos\PrimeMinisters\PrimeMinisters\bin\Debug\PrimeMinisters.pdb
+C:\Users\adwitiya\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.csprojResolveAssemblyReference.cache
+C:\Users\adwitiya\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.csproj.CoreCompileInputs.cache
+C:\Users\adwitiya\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.exe
+C:\Users\adwitiya\source\repos\PrimeMinisters\PrimeMinisters\obj\Debug\PrimeMinisters.pdb

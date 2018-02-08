@@ -1,0 +1,11 @@
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\bin\Debug\netcoreapp2.0\InventorySystem.deps.json
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\bin\Debug\netcoreapp2.0\InventorySystem.runtimeconfig.json
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\bin\Debug\netcoreapp2.0\InventorySystem.runtimeconfig.dev.json
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\bin\Debug\netcoreapp2.0\InventorySystem.dll
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\bin\Debug\netcoreapp2.0\InventorySystem.pdb
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\obj\Debug\netcoreapp2.0\InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\obj\Debug\netcoreapp2.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\obj\Debug\netcoreapp2.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\obj\Debug\netcoreapp2.0\InventorySystem.AssemblyInfo.cs
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\obj\Debug\netcoreapp2.0\InventorySystem.dll
+C:\Users\adwitiya\source\repos\InventorySystem\InventorySystem\obj\Debug\netcoreapp2.0\InventorySystem.pdb
