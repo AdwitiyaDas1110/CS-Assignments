@@ -1,0 +1,7 @@
+c:\users\adwitiya\source\repos\XY_Comparison\XY_Comparison\bin\Debug\XY_Comparison.exe.config
+c:\users\adwitiya\source\repos\XY_Comparison\XY_Comparison\bin\Debug\XY_Comparison.exe
+c:\users\adwitiya\source\repos\XY_Comparison\XY_Comparison\bin\Debug\XY_Comparison.pdb
+c:\users\adwitiya\source\repos\XY_Comparison\XY_Comparison\obj\Debug\XY_Comparison.csprojResolveAssemblyReference.cache
+c:\users\adwitiya\source\repos\XY_Comparison\XY_Comparison\obj\Debug\XY_Comparison.csproj.CoreCompileInputs.cache
+c:\users\adwitiya\source\repos\XY_Comparison\XY_Comparison\obj\Debug\XY_Comparison.exe
+c:\users\adwitiya\source\repos\XY_Comparison\XY_Comparison\obj\Debug\XY_Comparison.pdb
