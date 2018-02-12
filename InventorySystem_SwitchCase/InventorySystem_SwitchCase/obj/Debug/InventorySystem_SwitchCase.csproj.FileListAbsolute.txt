@@ -1,0 +1,7 @@
+C:\Users\adwitiya\source\repos\InventorySystem_SwitchCase\InventorySystem_SwitchCase\bin\Debug\InventorySystem_SwitchCase.exe.config
+C:\Users\adwitiya\source\repos\InventorySystem_SwitchCase\InventorySystem_SwitchCase\bin\Debug\InventorySystem_SwitchCase.exe
+C:\Users\adwitiya\source\repos\InventorySystem_SwitchCase\InventorySystem_SwitchCase\bin\Debug\InventorySystem_SwitchCase.pdb
+C:\Users\adwitiya\source\repos\InventorySystem_SwitchCase\InventorySystem_SwitchCase\obj\Debug\InventorySystem_SwitchCase.csprojResolveAssemblyReference.cache
+C:\Users\adwitiya\source\repos\InventorySystem_SwitchCase\InventorySystem_SwitchCase\obj\Debug\InventorySystem_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\adwitiya\source\repos\InventorySystem_SwitchCase\InventorySystem_SwitchCase\obj\Debug\InventorySystem_SwitchCase.exe
+C:\Users\adwitiya\source\repos\InventorySystem_SwitchCase\InventorySystem_SwitchCase\obj\Debug\InventorySystem_SwitchCase.pdb
